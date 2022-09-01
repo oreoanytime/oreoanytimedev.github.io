@@ -71,8 +71,8 @@ span{
 .images{
     width: 20%;
     height: 50%;
-    position: relative;
-    bottom:70px;
+    position: absolute;
+    bottom:200px;
     right: 90px;
 }
 
