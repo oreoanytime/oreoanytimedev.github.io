@@ -38,7 +38,7 @@ nav ul li a{
 
 nav ul li a:hover{
     color: red;
-    transform: scale(0.5) translatey(-15px);
+    transform: scale(0.5) translateY(-30px);
 }
 
 .intro{
