@@ -32,13 +32,13 @@ nav ul li a{
     text-decoration: none;
     color: black;
     font-weight: bold;
-    transition: 1s;
-    transform: translateY(-30%);
+    transition: color 1s, transform 1s;
+    
 }
 
 nav ul li a:hover{
     color: red;
-    bottom: 15px;
+    transform: translateY(-30%);
 }
 
 .intro{
@@ -71,10 +71,10 @@ span{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
+    transition: 1s;
 }
 
-.intro a:hover{
-    transition: 1s;
+.intro a:hover{  
     transform: translateY(-20%);
 }
 
