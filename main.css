@@ -32,12 +32,13 @@ nav ul li a{
     text-decoration: none;
     color: black;
     font-weight: bold;
+    transition: bottom 1s;
+    transform: translateY(-30%);
 }
 
 nav ul li a:hover{
     color: red;
-    transition: bottom 1s;
-    transform: translateY(-30%);
+    bottom: 15px;
 }
 
 .intro{
