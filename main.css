@@ -32,11 +32,11 @@ nav ul li a{
     text-decoration: none;
     color: black;
     font-weight: bold;
-    transition: bottom 0.5s;
 }
 
 nav ul li a:hover{
     color: red;
+    transition: bottom 1s;
     transform: translateY(-30%);
 }
 
@@ -73,8 +73,8 @@ span{
 }
 
 .intro a:hover{
-    transition: bottom 0.5s;
-    transform: translateY(-30%);
+    transition: bottom 1s;
+    transform: translateY(-20%);
 }
 
 .images{
