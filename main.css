@@ -76,6 +76,10 @@ span{
     right: 90px;
 }
 
+.intro .images{
+    display: inline-block;
+}
+
 .images img{
     height: 50%;
     position: absolute;
