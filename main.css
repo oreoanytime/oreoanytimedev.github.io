@@ -30,6 +30,7 @@ nav ul li {
 
 nav ul li a{
     text-decoration: none;
+    display: inline-block;
     color: black;
     font-weight: bold;
     transition: color 0.5s;
